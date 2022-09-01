@@ -1,3 +1,9 @@
 body {
     background-color: aqua;
 }
+p {
+    color: rgb(64, 156, 159);
+}
+h {
+    font-size: 10px;
+}
